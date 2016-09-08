@@ -4,6 +4,11 @@
 Chess game for windows.
 ## Installation
 No installation required, simply extract and launch chess.exe
+
+Alternatively:
+1) Compile "Model.java", "ChessGUI.java", and "Controller.java"
+2) Run Controller via Java interpreter
+
 ## Usage
 TODO: implement check and checkmate
 ## Contributing
