@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Java Chess}
+  <content>
+# Java Chess
 Chess game for windows.
 ## Installation
 No installation required, simply extract and launch chess.exe
