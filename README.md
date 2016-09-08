@@ -12,13 +12,13 @@ TODO: implement check and checkmate
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
 ## History
 TODO: Write history
 ## Credits
 Back-end: Justin McVicker, Kai Rahm
-Front-end (GUI): Justin Yu
+<br>Front-end (GUI): Justin Yu
 ## License
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+TODO: Write license</content>
+
 </snippet>
